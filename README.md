@@ -1,10 +1,8 @@
-# Database Structure
+# Structure
 
 On this page we provide the lists of both functional and non functional requirements.
 
 ## Functional Requirements
-
-### FR01 ...
 **1. Analisis Umum**
 
   Saat ini proses manajemen tugas akhir di IT Del masih memiliki kekurangan. Oleh karena itu diperlukan sebuah sistem yang mampu mengelola proses manajemen tugas akhir secara terkomputerisasi. 
